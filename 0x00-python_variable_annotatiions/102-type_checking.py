@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-'''Annotated function
+'''
+Annotated python function module.
 '''
 from typing import List, Tuple
 

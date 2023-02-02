@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Annotated function
+Annotated python function
+
 """
 from typing import Union, Sequence, Any
 

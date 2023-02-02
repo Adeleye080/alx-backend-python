@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-""" Annotated function """
+"""
+Annotated python function.
+"""
+
 
 def to_str(n: float) -> str:
     """ convert float to string """
