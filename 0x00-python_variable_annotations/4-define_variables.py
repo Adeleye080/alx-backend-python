@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" declaring variables and their respective annotations """s
+""" declaring variables and their respective annotations """
 
 
 a: int = 1
