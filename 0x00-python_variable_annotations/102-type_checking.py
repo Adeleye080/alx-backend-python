@@ -5,7 +5,7 @@ Annotated python function module.
 from typing import List, Tuple
 
 
-def zoom_array(lst: Tuple, factor: int = 2) -> List:
+def zoom_array(lst: List, factor: int = 2) -> List:
     '''print each list items in 'factor(int)' times.
     '''
     zoomed_in: List = [
